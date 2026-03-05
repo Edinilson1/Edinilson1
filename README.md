@@ -12,5 +12,4 @@
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edinilson1&show_icons=true&theme=transparent)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edinilson1&theme=transparent)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinilson1&layout=compact&theme=transparent)
