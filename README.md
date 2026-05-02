@@ -1,19 +1,67 @@
-# Edinilson Santos Silva Filho
+# Hi, I'm Edinilson Santos Silva Filho 👋
 
-### Conhecimentos
-#### Front-End
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NextJS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I'm a **Full-Stack developer in training**, currently studying a **Technical High School Course in Informatics** at the **Federal Institute of Mato Grosso do Sul (IFMS)**.
 
-#### Back-End
-![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+I enjoy building modern, responsive, and efficient web applications using technologies such as **React, Next.js, TypeScript, Node.js, PostgreSQL, and Supabase**.
 
-### Data-Base
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+---
 
-#### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🚀 Tech Stack
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edinilson1&show_icons=true&theme=transparent)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edinilson1&theme=transparent)](https://git.io/streak-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinilson1&layout=compact&theme=transparent)
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Database & Tools
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 📚 Education
+
+🎓 **Technical High School Course in Informatics**  
+📍 **Instituto Federal do Mato Grosso do Sul — IFMS**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Edinilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edinilson1&show_icons=true&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edinilson1&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinilson1&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React and Next.js concepts
+- Back-End development with Node.js, Express.js and NestJS
+- Database modeling with PostgreSQL, Prisma and Supabase
+- Building full-stack web applications
+
+---
+
+## 💡 About Me
+
+I'm passionate about technology, programming, and continuous learning.  
+My goal is to keep improving as a developer and create practical solutions through code.
