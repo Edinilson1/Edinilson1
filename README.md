@@ -1,6 +1,6 @@
 # Hi, I'm Edinilson Santos Silva Filho 👋
 
-I'm a **Full-Stack developer in training**, currently studying a **Technical High School Course in Informatics** at the **Federal Institute of Mato Grosso do Sul (IFMS)**.
+I'm a **Full-Stack developer in training**, currently studying a **Technical High School Course in Informatics** at the **Instituto Federal do Mato Grosso do Sul (IFMS)**.
 
 I enjoy building modern, responsive, and efficient web applications using technologies such as **React, Next.js, TypeScript, Node.js, PostgreSQL, and Supabase**.
 
