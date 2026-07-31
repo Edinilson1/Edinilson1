@@ -42,11 +42,11 @@ I enjoy building modern, responsive, and efficient web applications using techno
 
 <div align="center">
 
-![Edinilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edinilson1&show_icons=true&theme=transparent&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edinilson1&theme=github_dark" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edinilson1&theme=transparent&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edinilson1&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinilson1&layout=compact&theme=transparent&hide_border=true)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edinilson1&theme=github_dark" />
 
 </div>
 
