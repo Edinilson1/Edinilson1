@@ -86,6 +86,8 @@ Although I work across the entire stack, I'm especially interested in what happe
 
 I'm always learning, experimenting, and improving one project at a time.
 
+---
+
 <div align="center">
 
 <img src="annihilation.gif" alt="Electron-positron annihilation into two gamma photons" />
